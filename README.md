@@ -15,7 +15,7 @@ sudo mv fembpkg /usr/bin/fembpkg
 And the easy way FembArcher
 
 ```bash
-git clone https://github.com/FembArchyyLinux/FembArcher.git
+git clone https://github.com/FembArchLinuz/FembArcher.git
 cd FembArcher
 chmod +x Fembarcher.sh
 ./Fembarcher.sh
